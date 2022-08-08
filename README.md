@@ -5,7 +5,7 @@
 ### View Blade Template
 >Tugas 1 membuat view untuk project anda
 
-1 membuat folder dan file yang akan di isi
+1) membuat folder dan file yang akan di isi
 
 Nama folder yang harus dibuat 
 - barang
